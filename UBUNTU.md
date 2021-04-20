@@ -26,4 +26,4 @@ ansible-playbook -i inventory_for_ubuntu install_docker_ubuntu.yml # run the pla
 Log out from your ssh session, close Jetbrains and log in again so all changes will take effect.  
 Type ``` docker ps``` as ubuntu user for checking if all is fine.   
  
- 
+ docker 

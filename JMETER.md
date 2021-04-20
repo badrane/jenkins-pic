@@ -130,7 +130,7 @@ Execute shell copy /paste
 jmeter -Jjmeter.save.saveservice.output_format=xml -Jjmeter.save.saveservice.response_data.on_error=true -n -t petclinic_test_plan.jmx  -l testresult.jlt
 ```
 ### Post-build Actions   
-Select Console ouptut (build log) parsing  
+Selee ouptut (ct Consolbuild log) parsing  
 Tick Mark build Failed on Error  
 Tick Use project rule  
 Path to rule file in workspace :  parserules   
